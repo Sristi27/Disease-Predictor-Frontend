@@ -1,3 +1,16 @@
+# HEART Seva ~
+
+
+## Check out our application here <a href="https://predictor-frontend.herokuapp.com/">Demo</a>
+
+
+## Objective ~ 
+
+### This is an application built for aged humans or anyone who is facing any sort of heart health issues.You can take this platform to test your chances of having a heart disease or a blockage.I have used Machine Learning Algorithm to predict the heart conditions of users who enter their details in our CheckUp form.Really helpful for elders who find it difficult to step out of their houses , more in these scary time of the pandemic.Heart Seva tries to predict based on a huge Kaggle Dataset and yields accurate results.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
